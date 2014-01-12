@@ -155,5 +155,4 @@ for a in codon:
         aminoacid.append('(Gly/G) Glycine')
         
 print " | ".join(aminoacid)
-
-
+raw_input()
